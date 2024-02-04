@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39213134c030464cb944aa70a82cdede, type: 3}
+  m_Name: _3
+  m_EditorClassIdentifier: 
+  CaptureNumber: 1
+  LevelNumber: 3
+  pieceModels:
+  - pieceIndex: 14
+    eventTypes: 01000000
+    heightCount: 1
+  - pieceIndex: 15
+    eventTypes: 0200000001000000
+    heightCount: 2
+  - pieceIndex: 20
+    eventTypes: 0200000001000000
+    heightCount: 3
+  - pieceIndex: 21
+    eventTypes: 04000000
+    heightCount: 4
